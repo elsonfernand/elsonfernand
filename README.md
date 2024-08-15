@@ -15,6 +15,7 @@
 </p>
 
 <h3 align="center">Como sou designer gráfico, uso:</h3>
+<h3 align="center">𝕆 𝕢𝕦𝕖 𝕦𝕤𝕠:</h3>
 <p align="center">
   <a href="https://www.archlinux.org/" target="blank" rel="noreferrer"> <img src="https://vectorwiki.com/images/l0YT0__arch-linux-logo.svg" alt="archlinux" height="40"/>
   </a>
