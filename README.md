@@ -1,7 +1,7 @@
 <h1 align="center">Elson Fernandes</h1>
 <h3 align="center">Entendo quase porra nenhuma de programação,</br>sou designer gráfico mas de vez em </br>nunca tento escrever uns código aí.</h3>
 
-<h3 align="center">Entre em contato:</h3>
+<!--<h3 align="center">Entre em contato:</h3>-->
 <h3 align="center">ℝ𝕖𝕕𝕖𝕤:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/elsonfernand" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="elsonfernand" height="30" width="40"/>
@@ -14,7 +14,7 @@
 </a>
 </p>
 
-<h3 align="center">Como sou designer gráfico, uso:</h3>
+<!--<h3 align="center">Como sou designer gráfico, uso:</h3>-->
 <h3 align="center">𝕆 𝕢𝕦𝕖 𝕦𝕤𝕠:</h3>
 <p align="center">
   <a href="https://www.archlinux.org/" target="blank" rel="noreferrer"> <img src="https://vectorwiki.com/images/l0YT0__arch-linux-logo.svg" alt="archlinux" height="40"/>
