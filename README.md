@@ -2,6 +2,12 @@
 <h3 align="center">Entendo quase porra nenhuma de programação,</br>sou designer gráfico mas de vez em </br>nunca tento escrever uns código aí.</h3>
 
 <h3 align="center">Entre em contato:</h3>
+<h3 align="center">╔═══╗────╔╗────────────────╔╗
+║╔═╗║────║║────────────────║║
+║║─║╠═╗╔═╝╠══╗╔╗╔╦══╗╔══╦══╣╚═╦══╦═╦╗
+║║─║║╔╗╣╔╗║║═╣║╚╝║║═╣║╔╗║╔═╣╔╗║╔╗║╔╩╝
+║╚═╝║║║║╚╝║║═╣║║║║║═╣║╔╗║╚═╣║║║╔╗║║╔╗
+╚═══╩╝╚╩══╩══╝╚╩╩╩══╝╚╝╚╩══╩╝╚╩╝╚╩╝╚╝ </h3>
 <p align="center">
 <a href="https://linkedin.com/in/elsonfernand" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="elsonfernand" height="30" width="40"/>
 </a>
