@@ -1,5 +1,5 @@
 <h1 align="center">Elson Fernandes</h1>
-<h3 align="center">Entendo quase porra nenhuma de programação,</br>sou designer gráfico mas de vez em </br>nunca tento escrever uns código aí.</h3>
+<h3 align="center">Entendo quase nada de programação,</br>sou designer gráfico mas de vez em </br>nunca tento escrever uns código aí.</h3>
 
 <!--<h3 align="center">Entre em contato:</h3>-->
 <h3 align="center">ℝ𝕖𝕕𝕖𝕤:</h3>
